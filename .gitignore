@@ -123,3 +123,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+.DS_Store
+
+# Pytorch data folder
+data/
+
+# Pytorch model dicts.
+*.pth
